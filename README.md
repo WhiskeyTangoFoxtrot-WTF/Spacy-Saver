@@ -9,3 +9,9 @@ Tired of always saving files every time this progarm is for u!!
  After it finished it will send a notifcations :)
  Pls give us credits :)
 Some files may not be saved due of lack of permissions.
+Feel free to modify and adapt the code to suit your needs. If you're planning to create a video or post about this, we'd appreciate it if you gave credit to this group.
+
+For any questions or suggestions, you can reach out to us:
+
+Discord: Isusgsue
+Email: giuseppe.rapicano.1@gmail.com

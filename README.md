@@ -8,3 +8,4 @@ Tired of always saving files every time this progarm is for u!!
  Note: If it says it is not responding it means that is doing backup or auto run backup you can check the folder and you will se the new files. 
  After it finished it will send a notifcations :)
  Pls give us credits :)
+Some files may not be saved due of lack of permissions.
